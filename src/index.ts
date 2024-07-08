@@ -4,6 +4,8 @@ abc = "fdsf";
 const abc1: string = 'hello2';
 let obj : object = {};
 
+
+hello();
 class Cat{
 
     static className: string = 'Cat';
